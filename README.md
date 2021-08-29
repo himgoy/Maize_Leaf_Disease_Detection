@@ -1,5 +1,6 @@
 # Maize_Leaf_Disease_Detection
-Introduction
+![maize](https://user-images.githubusercontent.com/54285534/131239710-1817dd49-14ed-423a-bbdf-5266c07ab969.jpg)
+## Introduction
 Getting affected by a disease is very common in plants due to various factors such as fertilizers, cultural practices followed, environmental conditions, etc. These diseases hurt agricultural yield and eventually the economy based on it. 
 
 Any technique or method to overcome this problem and getting a warning before the plants are infected would aid farmers to efficiently cultivate crops or plants, both qualitatively and quantitatively. Thus, disease detection in plants plays a very important role in agriculture.
