@@ -7,9 +7,9 @@ Plant diseases are the major cause of low agricultural productivity. Mostly the 
 
 The Dataset which we have used is the Plant Village Dataset. The dataset was published by crowdAI during the "PlantVillage Disease Classification Challenge". The dataset contains a total of 4 classes for Maize listed below:
 
-Corn Gray Leaf Spot : 513
-Corn Common Rust : 1192
-Corn healthy : 1162
-Corn Northern Leaf Blight : 985
+- Corn Gray Leaf Spot : 513
+- Corn Common Rust : 1192
+- Corn healthy : 1162
+- Corn Northern Leaf Blight : 985
 
 Due to the limited computational power, it is difficult to train the classification model locally on a majority of normal machines. Therefore, we used the processing power offered by Google Colab notebook & Kaggle as it connects us to a free TPU instance quickly and effortlessly.
