@@ -16,4 +16,6 @@ Due to the limited computational power, it is difficult to train the classificat
 
 For computation of model we have taken the image data size of 224<img src="https://render.githubusercontent.com/render/math?math=\times">224 pixels.
 
-## 
+## Results
+
+Using the CNN model we were able to get the Training Accuracy of 99.09% and Validation Accuracy of 95.96%.
