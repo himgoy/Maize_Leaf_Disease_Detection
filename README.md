@@ -14,6 +14,6 @@ The Dataset which we have used is the Plant Village Dataset. The dataset was pub
 
 Due to the limited computational power, it is difficult to train the classification model locally on a majority of normal machines. Therefore, we used the processing power offered by Google Colab notebook & Kaggle as it connects us to a free TPU instance quickly and effortlessly.
 
-For computation of model we have taken the image data size of 224 \times 224 pixels.
+For computation of model we have taken the image data size of 224<img src="https://render.githubusercontent.com/render/math?math=\times">224 pixels.
 
 ## 
